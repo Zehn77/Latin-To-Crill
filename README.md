@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## To run use this product welcome the link:
+## To use this product welcome the link:
 
 https://latin-to-crill.netlify.app/
 
